@@ -1,0 +1,3 @@
+name: Core
+main: me.ma1de.core.bukkit.CorePlugin
+version: 1.0
